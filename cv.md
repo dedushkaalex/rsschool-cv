@@ -19,3 +19,14 @@ I like to study and learn something new. I like to read books, go in for physica
 * Quick learner 
 * Goal-oriented 
 * Conscientious
+## Education
+* Bryansk State Technical University,specialty mechatronics and robotics (2018 - 2022)
+## English
+* Pre-Intermediate (A2)
+## Code example 
+```
+const Parser = require(‘acorn’).Parser;
+const fs = require('fs');
+const source = fs.readFileSync('./car.js', 'utf8')
+const parsed = jsParser.parse(source);
+```
